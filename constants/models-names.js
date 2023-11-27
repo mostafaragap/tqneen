@@ -1,0 +1,8 @@
+module.exports.USER = "user"
+module.exports.SPECIALIZATION = "specialization"
+module.exports.AREA = "area"
+module.exports.CITY = "city"
+module.exports.TOPIC = "topic"
+module.exports.APPOINTMENT = "appointment"
+module.exports.IMAGE = "image"
+module.exports.DOCReq = "docRequest"
